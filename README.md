@@ -8,4 +8,4 @@ To render the HTML version of these Jupyter Notebooks:
    *  [Interactive transducer design](http://nbviewer.jupyter.org/github/franktoffel/sono-microreactors/blob/master/half-wave-sandwich-transducer.ipynb)
 
 
-Made with [Jupyter](http://jupyter.org/) open source tech.
+Made with [Jupyter](http://jupyter.org/) (free and open source)
