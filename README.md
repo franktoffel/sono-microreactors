@@ -6,11 +6,10 @@ Supplementary Information: [Guidelines for the design of efficient sono-microrea
 To render the HTML version of these Jupyter Notebooks:
 
 ## [Interactive transducer design](http://nbviewer.jupyter.org/github/franktoffel/sono-microreactors/blob/master/half-wave-sandwich-transducer.ipynb)
-![Interactive transducer design](https://raw.githubusercontent.com/franktoffel/sono-microreactors/master/animations/interactive-sandwich-transducer.gif)
+[![Interactive transducer design](https://raw.githubusercontent.com/franktoffel/sono-microreactors/master/animations/interactive-sandwich-transducer.gif)](http://nbviewer.jupyter.org/github/franktoffel/sono-microreactors/blob/master/half-wave-sandwich-transducer.ipynb)
 
 ##[Interactive sandwich microreactor](http://nbviewer.ipython.org/github/franktoffel/sono-microreactors/blob/master/interactive-langevin.ipynb)
-![Interactive sandwich microreactor](https://raw.githubusercontent.com/franktoffel/sono-microreactors/master/animations/langevins-interative-python.gif)  
-
+[![Interactive sandwich microreactor](https://raw.githubusercontent.com/franktoffel/sono-microreactors/master/animations/langevins-interative-python.gif)](http://nbviewer.ipython.org/github/franktoffel/sono-microreactors/blob/master/interactive-langevin.ipynb)  
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/franktoffel/sono-microreactors) New! [Interact with these Notebooks directly from your browser](http://mybinder.org/repo/franktoffel/sono-microreactors) (no installation required)
 
